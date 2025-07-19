@@ -1,11 +1,17 @@
 ## AI-CHATBOT-WITH-NLP
 
 **COMPANY:** CODTECH IT SOLUTIONS  
+
 **NAME:** HEMANT KAUSHAL  
+
 **INTERN ID:** CT06DF1693  
+
 **DOMAIN:** PYTHON PROGRAMMING  
+
 **DURATION:** 6 WEEKS  
+
 **MENTOR:** NEELA SANTOSH  
+
 
 ---
 
@@ -49,6 +55,8 @@ The chatbot runs in the **command-line interface (CLI)** and responds based on *
 
 - **Output:**  
   Automated text responses printed in the terminal simulating a conversation.
+
+  <img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/f614b8a9-14c5-4635-956f-f6fea3297a84" />
 
 ---
 
